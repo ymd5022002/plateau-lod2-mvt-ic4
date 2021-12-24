@@ -1,6 +1,6 @@
 # ライセンス
 
-本データセットは [CC-BY-4.0](LICENSE) で提供されます。
+ [CC-BY-4.0](LICENSE)　indigo-labさん
 
 indigo-labさんが作成したConvert plateau CityGML's buildings LOD2 into MVT(https://github.com/indigo-lab/plateau-lod2-mvt)をフォークしてディック・ブルーナ色を干渉色に変えています。使用の際にはindigo-labさんのレポジトリ(https://github.com/indigo-lab/plateau-lod2-mvt)へのリンクを提示してください。
 
